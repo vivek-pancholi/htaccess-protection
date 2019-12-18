@@ -1,0 +1,3 @@
+<Directory /{YOUR DIRECTORY}>
+Options FollowSymLinks
+</Directory>
